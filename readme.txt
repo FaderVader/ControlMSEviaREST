@@ -1,0 +1,1 @@
+A first attempt to control a Vizrt MSE via REST.
